@@ -3,8 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Minseo's%20Github&fontSize=70" />
 
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=Minseo-Jo&show_icons=true">
+-->
 
 <!--
 **Minseo-Jo/Minseo-Jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
