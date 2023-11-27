@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Minseo's%20Github&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Minseo's%20Github&fontSize=70" />
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Minseo-Jo&show_icons=true">
