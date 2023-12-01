@@ -3,9 +3,7 @@
 
 ## 👋 민서 Minseo Jo 
 
-![Static Badge](https://img.shields.io/badge/Mail%F0%9F%92%8C-skyblue?link=choms0209%40naver.com)
 [![Mail Badge](https://img.shields.io/badge/Mail%F0%9F%92%8C-skyblue)](mailto:choms0209@naver.com)
-![Static Badge](https://img.shields.io/badge/Techlog%E2%9A%99%EF%B8%8F-blue?link=https%3A%2F%2Fjominseoo.tistory.com%2F)
 [![Techlog Badge](https://img.shields.io/badge/Techlog%E2%9A%99%EF%B8%8F-blue)](https://jominseoo.tistory.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseo-Jo&count_bg=%23EF4DB1&title_bg=%23555555&icon=&icon_color=%23B8B2B2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
