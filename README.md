@@ -30,7 +30,7 @@
 
 ✔️ **Back-end**
 
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
 
 ✔️ **Devops**
 
