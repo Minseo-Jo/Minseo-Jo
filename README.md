@@ -15,7 +15,7 @@
 - 2023 FSI Datachallenge 참여
 - 2023 BDA 공모전 참여
 
-
+<!--
 ### 📚 Tech Stacks
 
 ✔️ **Languages**
@@ -40,7 +40,7 @@
 
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
 
-
+-->
 <!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=민서%20Minseo%20Jo&fontSize=70" />
 -->
