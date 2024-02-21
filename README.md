@@ -7,6 +7,11 @@
 [![Techlog Badge](https://img.shields.io/badge/Techlog%E2%9A%99%EF%B8%8F-blue)](https://jominseoo.tistory.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseo-Jo&count_bg=%23EF4DB1&title_bg=%23555555&icon=&icon_color=%23B8B2B2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### 💬 About me 
+
+### 🥇 Ranking
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choms0209)](https://solved.ac/choms0209/)
+
 
 ### 👩‍💻Work Experience
 - IBK 기업은행 인턴(디지털) (2023.07.21-2023.08.25) | **✨우수인턴선정**
@@ -14,6 +19,11 @@
 - 2023 경희대학교 SW 페스티벌 참가
 - 2023 FSI Datachallenge 참가
 - 2023 BDA 공모전 참가
+
+
+
+
+
 
 <!--
 ### 📚 Tech Stacks
@@ -40,6 +50,7 @@
 
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
 
+[![minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minseo-Jo)](https://github.com/Minseo-Jo/github-readme-stats)
 -->
 <!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=민서%20Minseo%20Jo&fontSize=70" />
