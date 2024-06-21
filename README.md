@@ -9,11 +9,13 @@
 
 ### 💬 About me 
 
+
 ### 🥇 Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choms0209)](https://solved.ac/choms0209/)
 
 
 ### 👩‍💻Work Experience
+- KT DS SW엔지니어 (2024.07-)
 - IBK 기업은행 인턴(디지털) (2023.07.21-2023.08.25) | **✨우수인턴선정**
 - 경희대학교 DA/AI 동아리 KHUDA 3,4기 회원 (2023.01-2023.12)
 - 2023 경희대학교 SW 페스티벌 참가
