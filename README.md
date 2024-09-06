@@ -1,29 +1,23 @@
 <!--<div align=center></div>-->
 
-
-## 👋 민서 Minseo Jo 
+### Minseo Jo ✨
 
 [![Mail Badge](https://img.shields.io/badge/Mail%F0%9F%92%8C-skyblue)](mailto:choms0209@naver.com)
 [![Techlog Badge](https://img.shields.io/badge/Techlog%E2%9A%99%EF%B8%8F-blue)](https://jominseoo.tistory.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseo-Jo&count_bg=%23EF4DB1&title_bg=%23555555&icon=&icon_color=%23B8B2B2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 💬 About me 
 
-### 👩‍💻Work Experience
-<!--KT DS SW엔지니어 (2024.07-)-->
-- IBK 기업은행 인턴(디지털) (2023.07.21-2023.08.25) | **✨우수인턴선정**
-- 경희대학교 DA/AI 동아리 KHUDA 3,4기 회원 (2023.01-2023.12)
-- 2023 경희대학교 SW 페스티벌 참가
-- 2023 FSI Datachallenge 참가
-- 2023 BDA 공모전 참가
+#### 💫 _Special Work Experience_
+- **KT ds** SW Engineer (2024.07-)
+- **IBK 기업은행** Internship(Digital) 29th (2023.07.21-2023.08.25) `우수인턴선정🌟`
+- **Kyung hee Univ. KHUDA** 3rd member (2023.07-2023.12)
+- **Kyung hee Univ. KHUDA** 4th member (2023.01-2023.06)
 
 
+<!--
 ### 🥇 Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choms0209)](https://solved.ac/choms0209/)
-
-
-
-
+-->
 
 
 
