@@ -1,6 +1,6 @@
 <!--<div align=center></div>-->
 
-### Minseo Jo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="21" /> 
+### Minseo Jo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="24" height="19" /> 
 [![Mail Badge](https://img.shields.io/badge/Mail%F0%9F%92%8C-red)](mailto:choms0209@naver.com)
 [![Techlog Badge](https://img.shields.io/badge/Techlog%E2%9A%99%EF%B8%8F-tomato)](https://jominseoo.tistory.com/)
 
