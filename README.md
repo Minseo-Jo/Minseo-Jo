@@ -2,9 +2,11 @@
 
 ### Minseo Jo ✨
 
-[![Mail Badge](https://img.shields.io/badge/Mail%F0%9F%92%8C-skyblue)](mailto:choms0209@naver.com)
-[![Techlog Badge](https://img.shields.io/badge/Techlog%E2%9A%99%EF%B8%8F-blue)](https://jominseoo.tistory.com/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseo-Jo&count_bg=%23EF4DB1&title_bg=%23555555&icon=&icon_color=%23B8B2B2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Mail Badge](https://img.shields.io/badge/Mail%F0%9F%92%8C-red)](mailto:choms0209@naver.com)
+[![Techlog Badge](https://img.shields.io/badge/Techlog%E2%9A%99%EF%B8%8F-tomato)](https://jominseoo.tistory.com/)
+
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseo-Jo&count_bg=%23EF4DB1&title_bg=%23555555&icon=&icon_color=indianred&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 
 #### 💫 _Special Work Experience_
