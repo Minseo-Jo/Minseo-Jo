@@ -1,7 +1,6 @@
 <!--<div align=center></div>-->
 
-### Minseo Jo ✨
-
+### Minseo Jo 🍅
 [![Mail Badge](https://img.shields.io/badge/Mail%F0%9F%92%8C-red)](mailto:choms0209@naver.com)
 [![Techlog Badge](https://img.shields.io/badge/Techlog%E2%9A%99%EF%B8%8F-tomato)](https://jominseoo.tistory.com/)
 
@@ -9,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseo-Jo&count_bg=%23EF4DB1&title_bg=%23555555&icon=&icon_color=indianred&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 
-#### 💫 _Special Work Experience_
+#### 💫 _Special Work Experience_ 💫 
 - **KT ds** SW Engineer (2024.07-)
 - **IBK 기업은행** Internship(Digital) 29th (2023.07.21-2023.08.25) `우수인턴선정🌟`
 - **Kyung hee Univ. KHUDA** 4th member (2023.07-2023.12)
