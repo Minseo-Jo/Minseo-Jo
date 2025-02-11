@@ -9,7 +9,7 @@
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="21" /> _Special Work Experience_
 
-- **KT ds** SW Engineer (2024.07-)
+- **KT ds** SW Engineer (2024.07- now)
 - **IBK 기업은행** Internship(Digital) 29th (2023.07.21-2023.08.25) `우수인턴선정🌟`
 - **Kyung hee Univ. KHUDA** 4th member (2023.07-2023.12)
 - **Kyung hee Univ. KHUDA** 3rd member (2023.01-2023.06)
